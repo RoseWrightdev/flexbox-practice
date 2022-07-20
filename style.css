@@ -1,0 +1,88 @@
+:root{
+  --lesbian-1: #d62e02;
+  --lesbian-2: #EF7627;
+  --lesbian-3: #FF9A56;
+  --lesbian-4: #fff;
+  --lesbian-5: #D162A4;
+  --lesbian-6: #B55690;
+  --lesbian-7: #A30262;
+  
+  --trans-1: #5BCEFA;
+  --trans-2: #F5A9B8;
+  --trans-3: #fff;
+}
+
+body{
+  margin:0;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+
+.flag {
+  display: flex;
+  flex-direction: column;
+}
+
+.trans-1{
+  background-color: var(--trans-1);
+  width: 50vw;
+  height: 20vh;
+}
+
+.trans-2{
+  background-color: var(--trans-2);
+  width: 50vw;
+  height: 20vh;
+}
+
+.trans-3{
+  background-color: var(--trans-3);
+  width: 50vw;
+  height: 20vh;
+}
+
+.lesbian-1{
+  background-color: var(--lesbian-1);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-2{
+  background-color: var(--lesbian-2);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-3{
+  background-color: var(--lesbian-3);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-4{
+  background-color: var(--lesbian-4);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-5{
+  background-color: var(--lesbian-5);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-6{
+  background-color: var(--lesbian-6);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
+
+.lesbian-7{
+  background-color: var(--lesbian-7);
+  width: 50vw;
+  height: 14.28571428571429vh;
+}
